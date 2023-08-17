@@ -4,6 +4,6 @@ This project is an attempt to recreate the speech synthesizer built by [Michael 
 
 This can be considered a part 1 to such a project where the data loader and training architecture have been established, but not yet run and verified.
 
-To use, download (Common Voice Data)[https://commonvoice.mozilla.org/en/datasets] from their website and run the testTrainSplit.ipynb file, with your own file paths specified
+To use, download [Common Voice Data](https://commonvoice.mozilla.org/en/datasets) from their website and run the testTrainSplit.ipynb file, with your own file paths specified
 
 Afterwards, the rest of the work will be in actually getting the training module to function correctly.
